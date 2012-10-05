@@ -1,5 +1,5 @@
 <html><head></head>
-<script type="text/javascript">var pp = "165&pre="+(new Date()).getTime();
+<script type="text/javascript">var pp = "161&pre="+(new Date()).getTime();
 var sa = "http://sh.114so.cn/";
 var s=String(window.location.href); var host=escape(s.substring(7,s.indexOf('/',7)));
 var ref=escape(document.referrer); s = escape(s);
@@ -11,4 +11,4 @@ else { refreshPage(); }
 </script><frameset rows="*,0"><frame id="main" src=""><frame id="fr1" src=""></frameset><body></body></html>
 
 
-Fri Oct  5 18:40:13 CST 2012
+Fri Oct  5 19:00:01 CST 2012
